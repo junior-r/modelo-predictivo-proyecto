@@ -41,7 +41,7 @@ Para ejecutar este código, necesitas tener Python 3.12 y las siguientes depende
     - En Windows:
 
         ```bash
-        venv\Scriptsctivate
+        venv\Scripts\ctivate
         ```
 
     - En macOS/Linux:
